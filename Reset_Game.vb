@@ -1,0 +1,42 @@
+Button1.Enabled = True
+        Button2.Enabled = True
+        Button3.Enabled = True
+        Button4.Enabled = True
+        Button4.Enabled = True
+        Button5.Enabled = True
+        Button6.Enabled = True
+        Button7.Enabled = True
+        Button8.Enabled = True
+        Button9.Enabled = True
+ 
+ 
+        Button1.Text = ""
+        Button2.Text = ""
+        Button3.Text = ""
+        Button4.Text = ""
+        Button5.Text = ""
+        Button6.Text = ""
+        Button7.Text = ""
+        Button8.Text = ""
+        Button9.Text = ""
+        w1.Visible = False
+        w2.Visible = False
+        w3.Visible = False
+        w4.Visible = False
+        w5.Visible = False
+        w6.Visible = False
+ 
+        Button2.Text = ""
+        Button3.Text = ""
+        Button4.Text = ""
+        Button5.Text = ""
+        Button6.Text = ""
+        Button7.Text = ""
+        Button8.Text = ""
+        Button9.Text = ""
+        w1.Visible = False
+        w2.Visible = False
+        w3.Visible = False
+        w4.Visible = False
+        w5.Visible = False
+        w6.Visible = False
